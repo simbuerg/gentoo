@@ -1,0 +1,1 @@
+LDFLAGS="-Xlinker -plugin -Xlinker LLVMgold.so"
